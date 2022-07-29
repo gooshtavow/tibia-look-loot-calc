@@ -1,0 +1,1142 @@
+22:40:19 Your depot contains 351 items. Your supply stash contains 36 items.
+22:40:25 You see a garlic necklace (protection life drain +20%) that has 150 charges left.
+It weighs 3.80 oz.
+22:40:25 You see a ring of blue plasma that is brand-new.
+It can only be wielded properly by paladins of level 100 or higher.
+It weighs 0.90 oz.
+22:40:26 You see a life ring that is brand-new.
+It weighs 0.80 oz.
+22:40:26 You see 2 orbs.
+They weigh 16.00 oz.
+22:40:27 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:27 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:27 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:28 You see a ring of blue plasma that is brand-new.
+It can only be wielded properly by paladins of level 100 or higher.
+It weighs 0.90 oz.
+22:40:28 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:28 You see a springsprout rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 37 or higher.
+It weighs 27.00 oz.
+It is filled with the energy of growing plants.
+22:40:29 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:29 You see a stone skin amulet (protection physical +80%, death +80%) that has 5 charges left.
+It weighs 7.00 oz.
+22:40:30 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:30 You see 38 great spirit potions.
+They can only be consumed by paladins of level 80 or higher.
+They weigh 117.80 oz.
+22:40:30 You see a life ring that is brand-new.
+It weighs 0.80 oz.
+22:40:31 You see spider fangs.
+It weighs 4.00 oz.
+22:40:31 You see 4 emerald bangles.
+They weigh 7.16 oz.
+22:40:32 You see a ring of blue plasma that is brand-new.
+It can only be wielded properly by paladins of level 100 or higher.
+It weighs 0.90 oz.
+22:40:32 You see a life ring that is brand-new.
+It weighs 0.80 oz.
+22:40:32 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:33 You see 3 coral brooches.
+They weigh 2.40 oz.
+22:40:33 You see a springsprout rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 37 or higher.
+It weighs 27.00 oz.
+It is filled with the energy of growing plants.
+22:40:33 You see a sacred tree amulet (protection physical +60%, earth +40%) that has 5 charges left.
+It can only be wielded properly by players of level 80 or higher.
+It weighs 7.00 oz.
+Its leaves stretch out to cover your whole body if you receive earth damage.
+22:40:34 You see a collar of green plasma that is brand-new.
+It can only be wielded properly by sorcerers and druids of level 150 or higher.
+It weighs 5.00 oz.
+22:40:34 You see spider silk.
+It weighs 0.10 oz.
+22:40:35 You see a stone skin amulet (protection physical +80%, death +80%) that has 5 charges left.
+It weighs 7.00 oz.
+22:40:35 You see a spike sword (Atk:24, Def:21 +2).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It weighs 50.00 oz.
+22:40:35 You see a ring of blue plasma that is brand-new.
+It can only be wielded properly by paladins of level 100 or higher.
+It weighs 0.90 oz.
+22:40:36 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:36 You see an underworld rod.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 42 or higher.
+It weighs 29.00 oz.
+No one knows which hell this unholy rod comes from.
+22:40:37 You see 3 mind stones.
+They weigh 7.50 oz.
+22:40:37 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:39 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:39 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:40 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:40 You see a collar of red plasma that is brand-new.
+It can only be wielded properly by knights of level 150 or higher.
+It weighs 5.00 oz.
+22:40:41 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:41 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:41 You see a terra rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 26 or higher.
+It weighs 25.00 oz.
+Small stones are flying from its tip.
+22:40:42 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:42 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:43 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:43 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:43 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:44 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:44 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:44 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:40:45 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:40:45 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:46 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:46 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:46 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:47 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:47 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:40:48 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:48 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:48 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:40:49 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:49 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:40:50 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:40:50 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:40:50 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:51 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:40:51 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:53 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:40:54 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:54 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:55 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:40:59 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:40:59 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:40:59 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:00 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:00 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:41:00 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:01 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:01 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:01 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:02 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:02 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:02 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:03 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:03 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:03 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:04 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:04 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:05 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:05 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:05 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:06 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:06 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:07 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:07 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:07 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:08 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:08 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:10 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:10 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:10 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:11 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:11 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:12 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:12 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:12 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:13 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:13 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:14 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:14 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:18 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:18 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:19 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:19 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:20 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:20 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:20 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:21 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:21 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:21 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:22 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:22 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:23 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:23 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:23 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:24 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:24 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:24 You see a wand of defiance (magic level +1).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers of level 65 or higher.
+It weighs 37.00 oz.
+It reveals devastating energy arcs.
+22:41:25 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:25 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:35 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:35 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:35 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:36 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:36 You see a wand of defiance (magic level +1).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers of level 65 or higher.
+It weighs 37.00 oz.
+It reveals devastating energy arcs.
+22:41:38 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:38 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:39 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:39 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:39 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:40 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:40 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:40 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:41 You see a wand of defiance (magic level +1).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers of level 65 or higher.
+It weighs 37.00 oz.
+It reveals devastating energy arcs.
+22:41:41 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:42 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:42 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:42 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:43 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:43 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:43 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:44 You see a wand of cosmic energy.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 26 or higher.
+It weighs 25.00 oz.
+The energy of a radiant star is trapped inside its globe.
+22:41:44 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:44 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:45 You see a wand of inferno.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 27.00 oz.
+It unleashes the very fires of hell.
+22:41:45 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:45 You see a wand of defiance (magic level +1).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers of level 65 or higher.
+It weighs 37.00 oz.
+It reveals devastating energy arcs.
+22:41:46 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:46 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:46 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:47 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:41:49 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:49 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:49 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:49 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:50 You see a wand of defiance (magic level +1).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers of level 65 or higher.
+It weighs 37.00 oz.
+It reveals devastating energy arcs.
+22:41:50 You see a wand of draconia.
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 22 or higher.
+It weighs 27.00 oz.
+This wand holds the spirit and soul of a dragon lord.
+22:41:50 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:51 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:41:51 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:52 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:41:52 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:53 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:41:53 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:53 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:41:54 You see a warrior's shield (Def:33).
+Imbuements: (Empty Slot).
+It weighs 75.00 oz.
+22:41:54 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:55 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:41:55 You see 13 great health potions.
+They can only be consumed by knights of level 80 or higher.
+They weigh 40.30 oz.
+22:41:55 You see 100 great health potions.
+They can only be consumed by knights of level 80 or higher.
+They weigh 310.00 oz.
+22:41:56 You see 100 great health potions.
+They can only be consumed by knights of level 80 or higher.
+They weigh 310.00 oz.
+22:41:56 You see 100 great spirit potions.
+They can only be consumed by paladins of level 80 or higher.
+They weigh 310.00 oz.
+22:41:57 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:41:57 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:41:57 You see 51 essences of a bad dream.
+They weigh 48.45 oz.
+22:41:58 You see bloody pincers.
+It weighs 3.60 oz.
+22:41:58 You see 11 ultimate health potions.
+They can only be consumed by knights of level 130 or higher.
+They weigh 34.10 oz.
+22:41:59 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:41:59 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:41:59 You see a beastslayer axe (Atk:35, Def:12 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 61.50 oz.
+22:42:00 You see a terra hood (Arm:5, protection earth +4%, fire -5%).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers and druids.
+It weighs 10.00 oz.
+22:42:00 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:00 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:42:02 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:02 You see a magma coat (Arm:11, protection fire +8%, ice -8%).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers and druids of level 50 or higher.
+It weighs 22.50 oz.
+22:42:03 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:03 You see a titan axe (Atk:43, Def:30).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 40 or higher.
+It weighs 81.00 oz.
+22:42:04 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:42:04 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:04 You see a beastslayer axe (Atk:35, Def:12 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 61.50 oz.
+22:42:05 You see a magma coat (Arm:11, protection fire +8%, ice -8%).
+Classification: 2 Tier: 0.
+It can only be wielded properly by sorcerers and druids of level 50 or higher.
+It weighs 22.50 oz.
+22:42:05 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:06 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:06 You see a beastslayer axe (Atk:35, Def:12 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 61.50 oz.
+22:42:07 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:42:07 You see a mino shield (Def:31).
+It weighs 65.00 oz.
+22:42:08 You see a warrior's axe (Atk:42, Def:21).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 40 or higher.
+It weighs 88.00 oz.
+22:42:08 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:42:09 You see a knight axe (Atk:33, Def:21 +1).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 25 or higher.
+It weighs 59.00 oz.
+22:42:09 You see iron ore.
+It weighs 14.00 oz.
+22:42:09 You see fairy wings.
+It weighs 84.00 oz.
+22:42:10 You see 100 great health potions.
+They can only be consumed by knights of level 80 or higher.
+They weigh 310.00 oz.
+22:42:10 You see 21 frazzle skins.
+They weigh 39.90 oz.
+22:42:10 You see 52 great mana potions.
+They can only be consumed by paladins, sorcerers and druids of level 80 or higher.
+They weigh 161.20 oz.
+22:42:11 You see 45 assassin stars (Atk:65, Def:0).
+They can only be wielded properly by players of level 80 or higher.
+They weigh 90.00 oz.
+22:42:11 You see silencer claws.
+It weighs 25.20 oz.
+22:42:11 You see 13 fish fin.
+They weigh 15.60 oz.
+It once belonged to a mighty creature of the deep.
+22:42:12 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:12 You see 23 frazzle tongues.
+They weigh 156.40 oz.
+22:42:12 You see terra legs (Arm:8, protection earth +6%, fire -6%).
+It can only be wielded properly by sorcerers and druids of level 40 or higher.
+It weighs 19.00 oz.
+22:42:13 You see 2 strong health potions.
+They can only be consumed by knights and paladins of level 50 or higher.
+They weigh 5.80 oz.
+22:42:13 You see a gemmed figurine.
+It weighs 6.50 oz.
+22:42:13 You see 4 small enchanted rubies.
+They weigh 0.40 oz.
+22:42:14 You see a cluster of solace.
+It weighs 2.80 oz.
+22:42:15 You see 2 red crystal fragments.
+They weigh 0.30 oz.
+22:42:15 You see 2 small enchanted emeralds.
+They weigh 0.20 oz.
+22:42:16 You see a shadow sceptre (Atk:39, Def:17).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 35 or higher.
+It weighs 41.00 oz.
+22:42:16 You see terra legs (Arm:8, protection earth +6%, fire -6%).
+It can only be wielded properly by sorcerers and druids of level 40 or higher.
+It weighs 19.00 oz.
+22:42:16 You see terra boots (Arm:2, protection earth +5%, fire -5%).
+Imbuements: (Empty Slot).
+It can only be wielded properly by sorcerers and druids of level 35 or higher.
+It weighs 7.50 oz.
+22:42:17 You see a haunted blade (Atk:40, Def:12).
+Imbuements: (Empty Slot, Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 30 or higher.
+It weighs 31.00 oz.
+22:42:17 You see a stealth ring that is brand-new.
+It weighs 1.00 oz.
+22:42:17 You see sai (Atk:45, Def:27).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 50 or higher.
+It weighs 50.00 oz.
+22:42:18 You see 5 rainbow quartzes.
+They weigh 5.00 oz.
+22:42:18 You see a glorious axe (Atk:40, Def:23).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 30 or higher.
+It weighs 95.00 oz.
+22:42:19 You see 2 white pearls.
+They weigh 0.40 oz.
+22:42:19 You see a shadow sceptre (Atk:39, Def:17).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 35 or higher.
+It weighs 41.00 oz.
+22:42:19 You see pirate knee breeches (Arm:1).
+It weighs 12.00 oz.
+22:42:20 You see a demonrage sword (Atk:47, Def:22).
+Imbuements: (Basic Strike 19:15h, Basic Void 19:15h, Basic Vampirism 19:15h).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 60 or higher.
+It weighs 150.00 oz.
+22:42:20 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:20 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:21 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:22 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:22 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:22 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:23 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:23 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:24 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:24 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:24 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:25 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:25 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:26 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:26 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+22:42:26 You see a hailstorm rod.
+Classification: 1 Tier: 0.
+It can only be wielded properly by druids of level 33 or higher.
+It weighs 27.00 oz.
+It grants you the power of striking your foes with furious hailstorms.
+13:02:53 You see an epee (Atk:37, Def:23).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 14.50 oz.
+13:02:53 You see an epee (Atk:37, Def:23).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 14.50 oz.
+19:33:31 You see a dwarven ring that will expire in 29 minutes and 7 seconds.
+It weighs 1.10 oz.
+19:33:33 You see a prismatic ring that will expire in 28 minutes and 38 seconds.
+It can only be wielded properly by players of level 120 or higher.
+It weighs 1.05 oz.
+19:33:35 You see a prismatic ring that will expire in 59 minutes and 59 seconds.
+It can only be wielded properly by players of level 120 or higher.
+It weighs 1.05 oz.
+19:34:00 You see an axe ring that is brand-new.
+It weighs 0.90 oz.
+22:40:42 You see spider silk.
+Classification: 1 Tier: 0.
+It can only be wielded properly by sorcerers of level 33 or higher.
+It weighs 10.00 oz.
+It unleashes the very fires of hell.
+13:02:53 You see an epee (Atk:37, Def:23).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 14.50 oz.
+13:02:53 You see an epee (Atk:37, Def:23).
+Imbuements: (Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by players of level 30 or higher.
+It weighs 14.50 oz.
+19:33:33 You see a prismatic ring that will expire in 28 minutes and 38 seconds.
+It can only be wielded properly by players of level 120 or higher.
+It weighs 1.05 oz.
+22:42:17 You see a haunted blade (Atk:40, Def:12).
+Imbuements: (Empty Slot, Empty Slot, Empty Slot).
+Classification: 2 Tier: 0.
+It can only be wielded properly by knights of level 30 or higher.
+It weighs 31.00 oz.
