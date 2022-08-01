@@ -15,6 +15,8 @@
 
 import math
 import re
+import os
+import sys
 
 item_data = []
 item_names = set()
@@ -34,10 +36,12 @@ def load_csv_into_memory():
             item_names.add(line[1])
 
 
-def parse_input(file):
+def parse_input(file,clipboard = None):
     with open(f"{file}", "r") as f:
         itemlist = []
         parsed_item = []
+        if clipboard != None:
+            f = clipboard
         for line in f:
             item = re.findall(r"You see (\d*)[\s]*([^.\(]+)", line)
             if item:
@@ -99,6 +103,21 @@ def calculate_value(item_list):
 
 
 load_csv_into_memory()
-item_list = parse_input("paste.txt")
-loot_value = calculate_value(item_list)
+#use -c to read input from clipboard and also spit out to it
+#note: this is only for windows mostly because i couldnt get the tkinter function that writes to the clipboard to work
+if os.name == "nt" and len(sys.argv) >= 2 and sys.argv[1] == "-c":
+    from tkinter import Tk
+    r = Tk()
+    r.withdraw()
+    s = r.clipboard_get()
+    r.destroy()
+    
+    item_list = parse_input("paste.txt",s.splitlines())
+    loot_value = calculate_value(item_list)
+    
+    os.system('echo | set /p result=' + str(loot_value) + '| clip')
+#read from file
+else:
+    item_list = parse_input("paste.txt")
+    loot_value = calculate_value(item_list)
 print(loot_value)
