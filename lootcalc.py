@@ -13,6 +13,7 @@
 
 # Feel free to contact me at GitHub
 
+from fileinput import close
 import math
 import re
 import os
@@ -36,48 +37,55 @@ def load_csv_into_memory():
             item_names.add(line[1])
 
 
-def parse_input(file,clipboard = None):
-    with open(f"{file}", "r") as f:
-        itemlist = []
-        parsed_item = []
-        if clipboard != None:
-            f = clipboard
-        for line in f:
-            item = re.findall(r"You see (\d*)[\s]*([^.\(]+)", line)
-            if item:
-                item = list(item[0])
-                # Now, item[0] holds the amount and item[1] holds item name
+def parse_input(input):
+    loot_text = None
+    if input == "paste.txt":
+        loot_text = open("paste.txt", "r")
+    else:
+        loot_text = input
 
-                # Remove "a", "an" and whitespaces
-                if item[0] == "" and item[1][0] == "a":
-                    if item[1][1:3] == "n ":
-                        item[1] = item[1][3:]
-                    elif item[1][1] == " ":
-                        item[1] = item[1][2:]
-                if item[1][-1] == " ":
-                    item[1] = item[1][:-1]
+    itemlist = []
+    parsed_item = []
 
-                # Remove "that..." for rings
-                if "that is" in item[1] or "that will" in item[1]:
-                    aux = ""
-                    item[1] = item[1].split(" ")
-                    for word in item[1]:
-                        if word == "that":
-                            break
-                        else:
-                            aux = aux + word + " "
-                    item[1] = aux[:-1]
-                if item[0] == "":
-                    parsed_item.append(item[0])
-                else:
-                    parsed_item.append(int(item[0])) # amount
-                parsed_item.append(item[1]) # name
+    for line in loot_text:
+        item = re.findall(r"You see (\d*)[\s]*([^.\(]+)", line)
+        if item:
+            item = list(item[0])
+            # Now, item[0] holds the amount and item[1] holds item name
 
-            weight = re.findall(r"weighs? (\d+.\d\d)", line)
-            if weight:
-                parsed_item.append(float(weight[0])) # weight
-                itemlist.append(parsed_item)
-                parsed_item = []
+            # Remove "a", "an" and whitespaces
+            if item[0] == "" and item[1][0] == "a":
+                if item[1][1:3] == "n ":
+                    item[1] = item[1][3:]
+                elif item[1][1] == " ":
+                    item[1] = item[1][2:]
+            if item[1][-1] == " ":
+                item[1] = item[1][:-1]
+
+            # Remove "that..." for rings
+            if "that is" in item[1] or "that will" in item[1]:
+                aux = ""
+                item[1] = item[1].split(" ")
+                for word in item[1]:
+                    if word == "that":
+                        break
+                    else:
+                        aux = aux + word + " "
+                item[1] = aux[:-1]
+            if item[0] == "":
+                parsed_item.append(item[0])
+            else:
+                parsed_item.append(int(item[0])) # amount
+            parsed_item.append(item[1]) # name
+
+        weight = re.findall(r"weighs? (\d+.\d\d)", line)
+        if weight:
+            parsed_item.append(float(weight[0])) # weight
+            itemlist.append(parsed_item)
+            parsed_item = []
+
+    if input == "paste.txt":
+        loot_text.close()
 
     return itemlist
 
@@ -103,20 +111,19 @@ def calculate_value(item_list):
 
 
 load_csv_into_memory()
-#use -c to read input from clipboard and also spit out to it
-#note: this is only for windows mostly because i couldnt get the tkinter function that writes to the clipboard to work
+# Windows only: use -c to read input from clipboard and also spit out to it.
 if os.name == "nt" and len(sys.argv) >= 2 and sys.argv[1] == "-c":
     from tkinter import Tk
-    r = Tk()
-    r.withdraw()
-    s = r.clipboard_get()
-    r.destroy()
-    
-    item_list = parse_input("paste.txt",s.splitlines())
+    tkinter_root = Tk()
+    tkinter_root.withdraw()
+    clipboard = tkinter_root.clipboard_get()
+    tkinter_root.destroy()
+
+    item_list = parse_input(clipboard.splitlines())
     loot_value = calculate_value(item_list)
-    
+
     os.system('echo | set /p result=' + str(loot_value) + '| clip')
-#read from file
+# Or read from "paste.txt"
 else:
     item_list = parse_input("paste.txt")
     loot_value = calculate_value(item_list)
