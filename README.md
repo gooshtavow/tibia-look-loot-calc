@@ -6,9 +6,19 @@ There are probably some corner cases I haven't considered, so take the results w
 
 ## Usage
 
+
+### With the "paste.txt" file:
+
  1. On the Tibia client, clear your server log channel and look at every item you want to sell to NPCs. This includes looking at ALL items you want to sell, even if they're duplicates.
  2. Copy everything in your server log and paste it into a text file called "paste.txt". Place this text file in the same directory as the `lootcalc.py` script. An example file is provided.
  3. Run the `lootcalc.py` script. It will print out the total gold value of the items you looked at.
+
+### With the clipboard (Windows only):
+
+ 1. On the Tibia client, clear your server log channel and look at every item you want to sell to NPCs. This includes looking at ALL items you want to sell, even if they're duplicates.
+ 2. Copy everything in your server log to your clipboard (simply press Ctrl+C).
+ 3. Run the `lootcalc.py` script with the `-c` option, e.g. `python lootcalc.py -c`. It will print out the total gold value of the items you looked at.
+
 
 ## Important Notes
 
