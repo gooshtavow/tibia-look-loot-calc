@@ -13,7 +13,6 @@
 
 # Feel free to contact me at GitHub
 
-from fileinput import close
 import math
 import re
 import os
@@ -109,22 +108,25 @@ def calculate_value(item_list):
                     total_value += plural_item["value"] * item[0]
     return int(total_value)
 
+def main():
+    load_csv_into_memory()
+    # Windows only: use -c to read input from clipboard and also spit out to it.
+    if os.name == "nt" and len(sys.argv) >= 2 and sys.argv[1] == "-c":
+        from tkinter import Tk
+        tkinter_root = Tk()
+        tkinter_root.withdraw()
+        clipboard = tkinter_root.clipboard_get()
+        tkinter_root.destroy()
 
-load_csv_into_memory()
-# Windows only: use -c to read input from clipboard and also spit out to it.
-if os.name == "nt" and len(sys.argv) >= 2 and sys.argv[1] == "-c":
-    from tkinter import Tk
-    tkinter_root = Tk()
-    tkinter_root.withdraw()
-    clipboard = tkinter_root.clipboard_get()
-    tkinter_root.destroy()
+        item_list = parse_input(clipboard.splitlines())
+        loot_value = calculate_value(item_list)
 
-    item_list = parse_input(clipboard.splitlines())
-    loot_value = calculate_value(item_list)
+        os.system('echo | set /p result=' + str(loot_value) + '| clip')
+    # Or read from "paste.txt"
+    else:
+        item_list = parse_input("paste.txt")
+        loot_value = calculate_value(item_list)
+    print(loot_value)
 
-    os.system('echo | set /p result=' + str(loot_value) + '| clip')
-# Or read from "paste.txt"
-else:
-    item_list = parse_input("paste.txt")
-    loot_value = calculate_value(item_list)
-print(loot_value)
+if __name__ == "__main__":
+    main()
