@@ -29,7 +29,6 @@ There are probably some corner cases I haven't considered, so take the results w
 
 The calculator is still very simple. It only reads your logs and spits out the total value. Someday, it might:
 
- - Also print the amount of each item and their value;
  - Show which NPC buys each item;
  - Have a simple GUI;
  - ... more? Who knows!

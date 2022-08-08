@@ -11,7 +11,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>
 
-# Feel free to contact me at GitHub
+# Feel free to contact the repository owner at GitHub
 
 import math
 import re
@@ -29,7 +29,8 @@ def load_csv_into_memory():
                 "name": line[0],
                 "plural": line[1],
                 "weight": float(line[2]),
-                "value": int(line[3])
+                "value": int(line[3]),
+                "amount": 0
             }
             item_data.append(object)
             item_names.add(line[0])
@@ -99,18 +100,26 @@ def calculate_value(item_list):
             singular_item = next((it for it in item_data if it["name"] == item[1]), False)
             if singular_item:
                 if math.isclose(item[2], singular_item["weight"], abs_tol=0.001):
+                    singular_item["amount"] += 1
                     total_value += singular_item["value"]
                 else:
+                    singular_item["amount"] += (item[2]/singular_item["weight"])
                     total_value += (item[2]/singular_item["weight"]) * singular_item["value"]
             else:
                 plural_item = next((it for it in item_data if (it["plural"] == item[1]) and math.isclose(item[2], item[0] * it["weight"], abs_tol=0.001)), False)
                 if plural_item:
+                    plural_item["amount"] += item[0]
                     total_value += plural_item["value"] * item[0]
     return int(total_value)
 
 def main():
-    load_csv_into_memory()
-    # Windows only: use -c to read input from clipboard and also spit out to it.
+    try:
+        load_csv_into_memory()
+    except:
+        print("Couldn't load sorted_items_and_values.csv.")
+        raise
+
+    # Windows only: use -c to read input from clipboard.
     if os.name == "nt" and len(sys.argv) >= 2 and sys.argv[1] == "-c":
         from tkinter import Tk
         tkinter_root = Tk()
@@ -120,13 +129,15 @@ def main():
 
         item_list = parse_input(clipboard.splitlines())
         loot_value = calculate_value(item_list)
-
-        os.system('echo | set /p result=' + str(loot_value) + '| clip')
     # Or read from "paste.txt"
     else:
         item_list = parse_input("paste.txt")
         loot_value = calculate_value(item_list)
-    print(loot_value)
+
+    for item in item_data:
+        if item["amount"] != 0:
+            print(f'{int(item["amount"])}x {item["name"]}: {int(item["value"] * item["amount"])} gold.')
+    print(f'Total value: {loot_value} gold.')
 
 if __name__ == "__main__":
     main()
